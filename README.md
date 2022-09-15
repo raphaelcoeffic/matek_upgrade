@@ -16,3 +16,5 @@ File hash OK for device
  |████████████████████████████████████████████████████████████████████████████████████████████████████| 100.4% 
 Update sucessful
 ```
+
+If you see the error `ModuleNotFoundError: No module named 'serial'` run `pip install pyserial` to install the required dependency.
